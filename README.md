@@ -1,2 +1,2 @@
 # Stilingue
-using Social media Clawler Stilingue API
+using Social media Crawler Stilingue API
